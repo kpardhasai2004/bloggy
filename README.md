@@ -5,7 +5,6 @@ Bloggy is a simple Django-based blogging platform designed to make it easy to cr
 
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Django Version](https://img.shields.io/badge/django-3.2-green.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![GitHub](https://img.shields.io/github/license/kpardhasai2004/Gallery_v1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kpardhasai2004/Gallery_v1)
 ![GitHub issues](https://img.shields.io/github/issues-raw/kpardhasai2004/Gallery_v1)
